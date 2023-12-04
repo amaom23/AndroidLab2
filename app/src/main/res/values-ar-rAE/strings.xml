@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidLab2</string>
+    <string name="look_at_my_gui">انظر إلى GUI</string>
+    <string name="click_here">انقر هنا</string>
+    <string name="check_this_out">تحقق من هذا</string>
+    <string name="switch_on_off">تشغيل / إيقاف</string>
+    <string name="type_here">أكتب هنا</string>
+</resources>
